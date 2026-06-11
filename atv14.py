@@ -66,6 +66,8 @@ class Reserva:
 # TESTES DAS CLASSES
 # ==========================
 
+# OBS: todas as classes nesse arquivo foram utilizadas apenas para testes, provavelmente ainda faremos alterações para melhorias no arquivo real.
+
 # Usuários
 usuario1 = Usuario("João Silva", "joao@escola.edu", "2025001", "1234")
 usuario2 = Usuario("Maria Souza", "maria@escola.edu", "2025002", "5678")
